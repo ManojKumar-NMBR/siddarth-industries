@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "siddarth-industries"
+  "defaultProject": "siddarth-industries",
+  "cli": {
+    "analytics": "67fdedf6-0543-448c-b170-2385f3409a4d"
+  }
 }
